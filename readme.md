@@ -1,14 +1,24 @@
-# 🚀 Desafio | Calculadora do Tempo
+# 🗓️ Desafio | Calculadora do Tempo
 
-<div style="display: flex; gap: 6px; justify-content: center; align-items: center;">
+<p>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 
-</div>
+</p>
+
+## Por onde começar?
+
+<ol>
+  <li>Clone o repositório.</li>
+  <li>Abra o projeto no seu melhor editor de código (recomendamos o uso do <a href="https://code.visualstudio.com/">VS Code</a>).</li>
+  <li>Acesse o layout da aplicação no figma.</li>
+  <li>Leia a "Descrição" e os detalhes do "Fique Atento".</li>
+  <li>Hora de colocar a mão no código. E aí, qual a solução você vai entregar?</li>
+</ol>
 
 ## Descrição
 
@@ -54,15 +64,5 @@ Seu desafio é criar esse aplicativo utilizando HTML, CSS e JavaScript para calc
 </ul>
 
 <p>
-  <span style="color: red; font-weight: bold">*Bônus:</span> Tenha atenção na acessibilidade da sua aplicação.
+  *Bônus: Tenha atenção na acessibilidade da sua aplicação.
 </p>
-
-## Por onde começar?
-
-<ol>
-  <li>Clone o repositório.</li>
-  <li>Abra o projeto no seu melhor editor de código (recomendamos o uso do <a href="https://code.visualstudio.com/">VS Code</a>).</li>
-  <li>Acesse o layout da aplicação no figma.</li>
-  <li>Leia a "Descrição" e os detalhes do "Fique Atento".</li>
-  <li>Hora de colocar a mão no código. E aí, qual a solução você vai entregar?</li>
-</ol>
